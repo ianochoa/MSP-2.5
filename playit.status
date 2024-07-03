@@ -1,304 +1,974 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719955310630 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719969290046 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955313669 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969293086 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955316739 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969296128 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955319809 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969299191 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955322868 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969302312 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955325930 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969305358 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955329011 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969308451 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955332161 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969311495 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955335217 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969314567 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955338256 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969317630 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955341292 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969320724 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955344340 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969323776 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955347386 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969326896 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955350441 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969330005 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955353571 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969333061 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955356692 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969336127 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955359726 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969339186 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955362771 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969342329 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955365840 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969345402 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955368892 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969348493 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955371972 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969351535 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955375027 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969354599 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955378117 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969357644 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955381199 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969360689 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955384259 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969363752 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955387317 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969366823 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955390388 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969369872 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955393482 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969372983 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955396524 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969376048 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955399566 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969379093 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955402609 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969382132 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955405673 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969385205 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955408879 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969388243 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955411917 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969391287 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955414953 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969394439 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955417990 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969397495 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955421037 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969400552 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955424111 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969403610 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955427180 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969406650 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955430291 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969409710 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955433364 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969412755 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955436428 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969415810 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955439484 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969418871 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955442548 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969422036 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955445609 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969425088 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955448710 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969428126 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955451795 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969431210 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955454844 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969434259 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955457891 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969437330 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955460953 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969440386 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955464001 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969443439 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955467066 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969446507 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955470122 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969449572 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955473232 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969452625 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955476322 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969455679 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955479374 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969458753 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955482451 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969461852 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955485504 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969464905 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955488551 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969467965 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955491613 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969471063 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719955494670 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719969474115 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969477164 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969480241 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969483325 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969486415 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969489512 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969492571 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969495629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969498677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969501749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969504825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969507886 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969510962 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969514000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969517045 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969520096 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969523180 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969526231 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969529286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969532373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969535500 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969538588 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969541634 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969544675 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969547758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969550834 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969553900 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969556961 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969560012 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969563087 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969566137 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969569211 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969572268 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969575323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969578365 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969581427 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969584495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969587545 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969590594 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969593661 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969596717 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969599760 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969603026 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969606134 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969609232 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969612295 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969615372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969618424 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969621490 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969624528 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969627601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969630667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969633725 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969636773 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969639834 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969642885 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969645989 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969649098 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969652167 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969655230 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969658298 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969661381 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969664446 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969667502 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969670568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969673684 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969676794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969679878 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969682929 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969685973 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969689013 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969692073 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969695162 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969698250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969701309 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969704361 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969707474 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969710524 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969713585 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969716660 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969719802 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969722888 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969725995 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969729053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969732111 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969735209 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969738261 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969741300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969744358 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969747466 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969750527 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969753592 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969756654 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969759715 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969762773 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969765838 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969768962 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969772032 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969775094 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969778131 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969781167 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969784223 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969787309 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969790364 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969793448 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969796506 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969799575 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969802629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969805704 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969808791 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969811859 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969814895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969817941 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969820989 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969824077 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969827127 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969830182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969833215 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969836277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969839346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969842529 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969845620 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969848667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969851706 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969854744 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969857803 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969860843 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969863968 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969867025 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969870092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969873157 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969876228 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969879282 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969882345 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stuff-warrior.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719969885398 tunnel running, 1 tunnels registered
 
 
 TUNNELS
